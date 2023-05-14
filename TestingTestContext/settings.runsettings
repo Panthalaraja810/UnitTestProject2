@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+	<MSTest>
+		<Parallelize>
+			<Workers>1</Workers>
+			<Scope>MethodLevel</Scope>
+		</Parallelize>
+	</MSTest>
+	<TestRunParameters>
+		<Parameter name="webUrl" value="https://demo.actitime.com/login.do" />
+		<Parameter name="docsUrl" value="https://learn.microsoft.com" />
+	</TestRunParameters>
+</RunSettings>
